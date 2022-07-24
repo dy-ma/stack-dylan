@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Dylan, an undergrad computer science major at UC Davis. My interests include data science, data engineering, and web development.
+I'm Dylan, an undergrad computer science major at UC Davis. My interests include data science, machine learning, and web development.
